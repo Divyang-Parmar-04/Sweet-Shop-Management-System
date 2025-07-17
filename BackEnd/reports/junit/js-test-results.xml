@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="8" failures="0" errors="0" time="1.258">
+  <testsuite name="Sweet API Tests" errors="0" failures="0" skipped="0" timestamp="2025-07-17T12:42:48" time="0.523" tests="1">
+    <testcase classname="Sweet API Tests Add a new sweet" name="Sweet API Tests Add a new sweet" time="0.038">
+    </testcase>
+  </testsuite>
+  <testsuite name="Sweet API Tests" errors="0" failures="0" skipped="0" timestamp="2025-07-17T12:42:48" time="0.111" tests="2">
+    <testcase classname="Sweet API Tests Sort sweets by price" name="Sweet API Tests Sort sweets by price" time="0.006">
+    </testcase>
+    <testcase classname="Sweet API Tests Sort sweets by category" name="Sweet API Tests Sort sweets by category" time="0.011">
+    </testcase>
+  </testsuite>
+  <testsuite name="Sweet API Tests" errors="0" failures="0" skipped="0" timestamp="2025-07-17T12:42:49" time="0.092" tests="1">
+    <testcase classname="Sweet API Tests Search sweets by name" name="Sweet API Tests Search sweets by name" time="0.007">
+    </testcase>
+  </testsuite>
+  <testsuite name="Sweet API Tests" errors="0" failures="0" skipped="0" timestamp="2025-07-17T12:42:49" time="0.114" tests="1">
+    <testcase classname="Sweet API Tests Purchase a sweet" name="Sweet API Tests Purchase a sweet" time="0.008">
+    </testcase>
+  </testsuite>
+  <testsuite name="Sweet API Tests" errors="0" failures="0" skipped="0" timestamp="2025-07-17T12:42:49" time="0.107" tests="1">
+    <testcase classname="Sweet API Tests Restock a sweet" name="Sweet API Tests Restock a sweet" time="0.008">
+    </testcase>
+  </testsuite>
+  <testsuite name="Sweet API Tests" errors="0" failures="0" skipped="0" timestamp="2025-07-17T12:42:49" time="0.1" tests="1">
+    <testcase classname="Sweet API Tests Delete Sweet" name="Sweet API Tests Delete Sweet" time="0.005">
+    </testcase>
+  </testsuite>
+  <testsuite name="Sweet API Tests" errors="0" failures="0" skipped="0" timestamp="2025-07-17T12:42:49" time="0.093" tests="1">
+    <testcase classname="Sweet API Tests Get all sweets" name="Sweet API Tests Get all sweets" time="0.007">
+    </testcase>
+  </testsuite>
+</testsuites>
