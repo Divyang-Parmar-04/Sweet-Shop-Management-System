@@ -1,6 +1,6 @@
 # 🍫 Sweet Shop Management System
 
-A full-stack web application for managing sweets in a shop — including features like purchasing, restocking , buy, add new Sweets, Delete Sweets and sort by name and Category.
+A full-stack web application for managing sweets in a shop — including features like purchasing, restocking , add new Sweets, Delete Sweets and sort by name and Category.
 
 ---
 
